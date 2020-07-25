@@ -1,4 +1,4 @@
-![GitHub Art](https://hemesh2006.github.io/images/img.png)
+![GitHub Art](img.png)
 ## About Me
 ### Hello! I am **Hemesh Chadalavada**, a 13-year-old Innovator, Entrepreneur, Developer, Maker & an AI Enthusiast from Hyderabad, India.
 ### Know More about Me & My Projects at [hemesh.tech](https://hemesh.tech)
