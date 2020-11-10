@@ -5,8 +5,5 @@
 - ⚡ Contact me for further Collabs, Queries & Opportunities at [hemeshchadalavada@gmail.com](mailto:hemeshchadalavada@gmail.com)
 <br />
 
-![Hemesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemesh2006&show_icons=true&theme=dark&count_private=true)
+![Hemesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemesh2006&show_icons=true&theme=dark&count_private=true)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemesh2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Hemesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hemesh2006)](https://github.com/anuraghazra/github-readme-stats)
-
-
