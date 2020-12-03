@@ -7,5 +7,4 @@
 <br />
 
 ![Hemesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemesh2006&show_icons=true&theme=dark&count_private=true)  
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemesh2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
