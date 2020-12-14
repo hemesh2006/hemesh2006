@@ -6,5 +6,5 @@
 - 🔒 Most of my commits are in Private Repos
 <br />
 
-![Hemesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemesh2006&show_icons=true&theme=dark&count_private=true)  
+![Hemesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemeshch&show_icons=true&theme=dark&count_private=true)  
 
