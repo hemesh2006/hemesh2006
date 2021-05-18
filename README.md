@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hey! 👋
 ### I am **Hemesh Chadalavada**, a 14-year-old Full Stack Web Developer & Maker from Hyderabad, India.
 - 🔭 Know More about Me & My Projects at [hemesh.tech](https://hemesh.tech)
 - 🌱 I am currently building building ConsultFix - [consultfix.in](https://consultfix.in/)
